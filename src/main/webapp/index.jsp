@@ -10,6 +10,6 @@
     <body>
         <h1>Hello World! How are you,what's about CORONA???</h1>
             <p> Nothing great,CORONA is wrecking havoc on earth!!!</p>
-              <p> But there is small hope due to vaccine</p>
+              <p> But there is small hope due to vaccine.Let's hope for the best</p>
     </body>
 </html>
