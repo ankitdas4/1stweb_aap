@@ -8,10 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World! How are you,what's about CORONA???</h1>
-            <p> Nothing great,CORONA is wrecking havoc on earth!!!</p>
-            
-        Good Afternoon how are you
-       I am fine...thank you
+        <h1>HELLO WORLD</h1>
     </body>
 </html>
