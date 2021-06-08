@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>After unsuccessful attempt returned to AMI2</h1>
+        <h1>Successfully created Centos...but it sucks</h1>
     </body>
 </html>
