@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Successfully created Centos...but it sucks</h1>
+        <h1>installed ansible</h1>
     </body>
 </html>
