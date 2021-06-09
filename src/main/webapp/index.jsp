@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Learning through AWS</h1>
+        <h1>AWS is getting slower at night</h1>
     </body>
 </html>
