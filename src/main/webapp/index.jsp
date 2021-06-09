@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>installed ansible</h1>
+        <h1>installed ansible and restarted jenkins</h1>
     </body>
 </html>
