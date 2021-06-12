@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Its working!!!! but breaking a lot of sweat</h1>
+        <h1>Its working!!!!</h1>
     </body>
 </html>
